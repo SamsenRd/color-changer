@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    transition: background-color 0.5s;
+}
+
+.container {
+    margin-top: 100px;
+}
+
+
+button {
+    padding: 40px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+    border: 3px solid lightgreen;
+    border-radius: 50px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+button:hover {
+    box-shadow: 0 0 30px black;
+    transform: scale(1.05);
+}
