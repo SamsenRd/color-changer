@@ -1,2 +1,2 @@
 # color-changer
-another fun app
+Press the button to change the color of the background
